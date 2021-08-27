@@ -1,0 +1,17 @@
+.hero{
+    background-image: url("../images/bldg.jpg");
+    background-position: relative;
+    background-size: cover;
+    height: 730px;
+}
+h1{
+color:white;
+text-align:center;
+
+
+}
+h2{
+color:white;
+text-align:center;
+
+}
